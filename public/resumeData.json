@@ -1,45 +1,45 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Rajat Agarwal",
+    "occupation": "TCS Employee",
     "description": "I eat, sleep and breathe React",
-    "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "image": "profilepic.jpeg",
+    "bio": "Hi there! I am Rajat !. I've been coding for over 2 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe.",
+    "contactmessage": "Get in touch with me to be a part of the React Developer!",
+    "email": "arajat970@gmail.com",
+    "phone": "8850067735",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
+      "street": "13/206, Indrasan Bhawan",
+      "city": "Jamshedpur",
+      "state": "Jharkhand",
       "zip": "W3B D3V"
     },
     "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "resumedownload": "https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:b7a971f9-2a62-4c1e-a63e-a37bb7b1c314#pageNum=1",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "https://www.youtube.com/channel/UCHPc5xaDhhan0_7OP45DcEw/videos",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/profile.php?id=100050695515113",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/rajat-agarwal-244102142/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/arajat555/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/rajat120",
         "className": "fa fa-github"
       }
     ]
@@ -48,40 +48,37 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Narbharam Hanshraj English School",
+        "degree": "Bachelor's Degree, Electronic & Tele Communication",
+        "graduated": "july 2018",
+        "description": "Graduated with First Class Honours & Gold medalist in my field."
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "TCS",
+        "title": "Web Developer",
+        "years": "May 2018 - Present",
+        "description": "Building web app and enhancing my skills in react js framework."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "70%"
       },
-      {
-        "name": "Python",
-        "level": "85%"
-      },
+     
       {
         "name": "Git",
         "level": "70%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "80%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "90%"
       }
     ]
   },
@@ -110,13 +107,10 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
-      },
-      {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Rajat is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Purvi"
       }
+     
     ]
   }
 }
